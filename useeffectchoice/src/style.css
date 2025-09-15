@@ -1,0 +1,16 @@
+button{
+    padding:5px;
+    margin-inline: 20px;
+    padding-inline: 20px;
+    font-size: 20px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    gap:20px;
+    grid-auto-rows: 300px;
+}
+.container > div{
+    padding:20px;
+    border:2px solid black
+}

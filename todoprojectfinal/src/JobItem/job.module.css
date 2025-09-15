@@ -1,0 +1,13 @@
+.par{
+    display:flex;
+    padding:5px;
+}
+.btn{
+    margin-left: auto;
+    background-color: aqua;
+}
+.icon{
+    color:rgb(243, 145, 17);
+    cursor: pointer;
+    margin-inline: 20px;
+}

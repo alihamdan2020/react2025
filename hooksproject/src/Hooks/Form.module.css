@@ -1,0 +1,8 @@
+.group_level{
+    margin-block: 10px;
+}
+    .label{
+        margin-block:10px;
+        display:block;
+        text-transform: uppercase;
+    }

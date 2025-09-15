@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:80vw;
+    margin:20px auto;
+}
+footer{
+    text-transform: uppercase;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width: 100%;
+    background-color: aliceblue;
+    padding: 20px;
+}
+header{
+text-transform: capitalize;
+display:flex;
+justify-content:space-between;
+align-items:center;
+background-color:orange;
+padding-inline: 20px;
+}
+.links{
+    margin-right: 20px;
+    color:white;
+    font-size:20px;
+    text-decoration: none
+}
+main{
+
+}
